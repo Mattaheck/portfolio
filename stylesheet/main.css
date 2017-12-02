@@ -1,0 +1,51 @@
+.bg-1 {
+  background-image: url("matt-drums-mad.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mast {
+  text-align: center;
+}
+
+.mast-head .container {
+  padding: 130px 0px 40px 0px;
+}
+
+.page-title {
+  transition: all .7s ease-in-out;
+}
+
+.separator {
+  max-width: 40%;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 70px;
+}
+
+.contact-toggle {
+  font-size: 30px;
+}
+
+.contact-toggle .fa {
+  font-size: 30px;
+}
+
+.btn-border {
+  border: 1px solid black;
+}
+
+a .fa{
+  font-size: 70px;
+  display: inline;
+  margin: 50px;
+}
+
+ul {
+  margin-top: 30px;
+}
